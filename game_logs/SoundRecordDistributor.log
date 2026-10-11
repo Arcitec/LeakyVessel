@@ -1,0 +1,2516 @@
+SoundRecordDistributor v1.5.3.0
+Game version : 1-6-1170-0
+************MERGES************
+Failed to dispatch message to MergeMapper
+MergeMapper not detected
+
+Scanning Data\ for configs ending with _SRD.json/.jsonc/.yaml...
+Found plugin-specific config: Data\Ambient Warfare.esp_SRD.yaml
+Found plugin-specific config: Data\Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+Found plugin-specific config: Data\Audio Overhaul Skyrim.esp_Magic_ImmersiveSounds_SRD.yaml
+Found plugin-specific config: Data\Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml
+Found plugin-specific config: Data\Audio Overhaul Skyrim.esp_Regions_Base_SRD.yaml
+Found plugin-specific config: Data\Audio Overhaul Skyrim.esp_Regions_Extra_Interiors_SRD.yaml
+Found plugin-specific config: Data\Audio Overhaul Skyrim.esp_Requiem_SRD.yaml
+Found plugin-specific config: Data\Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+Found plugin-specific config: Data\Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml
+Found plugin-specific config: Data\Azura Audio Array.esp_SRD.yaml
+Found plugin-specific config: Data\BlackreachEerieAmbience.esp_SRD.yaml
+Found plugin-specific config: Data\Distant Rolling Thunder.esp_SRD.yaml
+Found plugin-specific config: Data\f3(i
+h/Haunted Shipwrecks.esp_SRD.yaml
+Found plugin-specific config: Data\f3(i
+h/Haunting Harmonies of Hjaalmarch.esp_SRD.yaml
+Found plugin-specific config: Data\f3(i
+h/Magical Potion Sounds.esp_SRD.yaml
+Found plugin-specific config: Data\f3(i
+h/MurderOfSongbirds.esp_SRD.yaml
+Found plugin-specific config: Data\f3(i
+h/Nordic Winds.esp_SRD.yaml
+Found general config: Data\f3(i
+h/NPCsWearWeddingBands_ImmersiveSounds_SRD.yaml
+Found plugin-specific config: Data\f3(i
+h/Regional Sounds Expansion.esp_SRD.yaml
+Found plugin-specific config: Data\f3(i
+h/Revenant Spirits of the Soul Cairn.esp_SRD.yaml
+Found plugin-specific config: Data\f3(i
+h/Reverb Interior Sounds Expansion.esp_Rain_SRD.yaml
+Found plugin-specific config: Data\f3(i
+h/Reverb Interior Sounds Expansion.esp_RegionalSoundsExpansion_SRD.yaml
+Found plugin-specific config: Data\f3(i
+h/Reverb Interior Sounds Expansion.esp_SRD.yaml
+Found plugin-specific config: Data\f3(i
+h/Reverb Interior Sounds Expansion.esp_Thunder_SRD.yaml
+Found general config: Data\f3(i
+h/RynsSLVEbonyWarriorOverhaul - ISC Patch_SRD.yaml
+Found plugin-specific config: Data\f3(i
+h/Solstheim Exterior Soundscapes.esp_SRD.yaml
+Found plugin-specific config: Data\f3(i
+h/Sounds of Towns and Cities.esp_SRD.yaml
+Found general config: Data\f3(i
+h/Unique FX Shader Sounds_SRD.yaml
+Found plugin-specific config: Data\f3(i
+h/VolkiharSoundscapeOverhaul.esp_SRD.yaml
+Found plugin-specific config: Data\f3(i
+h/WhalesOffTheCoast.esp_SRD.yaml
+Found plugin-specific config: Data\f3(i
+h/Whispering Tomes of Apocrypha.esp_SRD.yaml
+Found plugin-specific config: Data\f3(i
+h/WildwoodEchoes.esp_SRD.yaml
+Scanned configs in 61 ms
+
+Matching plugin-specific configs to loaded plugins...
+Adding config Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml for plugin Audio Overhaul Skyrim.esp
+Adding config Audio Overhaul Skyrim.esp_Magic_ImmersiveSounds_SRD.yaml for plugin Audio Overhaul Skyrim.esp
+Adding config Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml for plugin Audio Overhaul Skyrim.esp
+Adding config Audio Overhaul Skyrim.esp_Regions_Base_SRD.yaml for plugin Audio Overhaul Skyrim.esp
+Adding config Audio Overhaul Skyrim.esp_Regions_Extra_Interiors_SRD.yaml for plugin Audio Overhaul Skyrim.esp
+Adding config Audio Overhaul Skyrim.esp_Requiem_SRD.yaml for plugin Audio Overhaul Skyrim.esp
+Adding config Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml for plugin Audio Overhaul Skyrim.esp
+Adding config Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml for plugin Audio Overhaul Skyrim.esp
+Adding config Regional Sounds Expansion.esp_SRD.yaml for plugin Regional Sounds Expansion.esp
+Adding config Azura Audio Array.esp_SRD.yaml for plugin Azura Audio Array.esp
+Adding config Reverb Interior Sounds Expansion.esp_Rain_SRD.yaml for plugin Reverb Interior Sounds Expansion.esp
+Adding config Reverb Interior Sounds Expansion.esp_RegionalSoundsExpansion_SRD.yaml for plugin Reverb Interior Sounds Expansion.esp
+Adding config Reverb Interior Sounds Expansion.esp_SRD.yaml for plugin Reverb Interior Sounds Expansion.esp
+Adding config Reverb Interior Sounds Expansion.esp_Thunder_SRD.yaml for plugin Reverb Interior Sounds Expansion.esp
+Adding config Magical Potion Sounds.esp_SRD.yaml for plugin Magical Potion Sounds.esp
+Adding config Revenant Spirits of the Soul Cairn.esp_SRD.yaml for plugin Revenant Spirits of the Soul Cairn.esp
+Adding config BlackreachEerieAmbience.esp_SRD.yaml for plugin BlackreachEerieAmbience.esp
+Adding config MurderOfSongbirds.esp_SRD.yaml for plugin MurderOfSongbirds.esp
+Adding config WhalesOffTheCoast.esp_SRD.yaml for plugin WhalesOffTheCoast.esp
+Adding config Ambient Warfare.esp_SRD.yaml for plugin Ambient Warfare.esp
+Adding config WildwoodEchoes.esp_SRD.yaml for plugin WildwoodEchoes.esp
+Adding config Nordic Winds.esp_SRD.yaml for plugin Nordic Winds.esp
+Adding config Whispering Tomes of Apocrypha.esp_SRD.yaml for plugin Whispering Tomes of Apocrypha.esp
+Adding config Distant Rolling Thunder.esp_SRD.yaml for plugin Distant Rolling Thunder.esp
+Adding config Solstheim Exterior Soundscapes.esp_SRD.yaml for plugin Solstheim Exterior Soundscapes.esp
+Adding config VolkiharSoundscapeOverhaul.esp_SRD.yaml for plugin VolkiharSoundscapeOverhaul.esp
+Adding config Sounds of Towns and Cities.esp_SRD.yaml for plugin Sounds of Towns and Cities.esp
+Adding config Haunting Harmonies of Hjaalmarch.esp_SRD.yaml for plugin Haunting Harmonies of Hjaalmarch.esp
+Adding config Haunted Shipwrecks.esp_SRD.yaml for plugin Haunted Shipwrecks.esp
+
+Parsing configs...
+Parsing 1 configs for plugin Ambient Warfare.esp
+Parsing Ambient Warfare.esp_SRD.yaml
+Converting Ambient Warfare.esp_SRD.yaml to JSON object
+Parsing 8 configs for plugin Audio Overhaul Skyrim.esp
+Parsing Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+Converting Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml to JSON object
+Parsing Audio Overhaul Skyrim.esp_Magic_ImmersiveSounds_SRD.yaml
+Converting Audio Overhaul Skyrim.esp_Magic_ImmersiveSounds_SRD.yaml to JSON object
+	Missing requirement NOT Immersive Sounds - Compendium.esp
+Parsing Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml
+Converting Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml to JSON object
+	Form DragonWar.esp|09D76D of class RE::EffectSetting does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+	Form MysticismMagic.esp|1D7028 of class RE::EffectSetting does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+	Form MysticismMagic.esp|3B3121 of class RE::EffectSetting does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+	Form DragonWar.esp|0D52AE of class RE::BGSProjectile does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+	Form DragonWar.esp|35D36C of class RE::BGSProjectile does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+	Form DragonWar.esp|42CD1A of class RE::BGSProjectile does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+	Form DragonWar.esp|4BA97D of class RE::BGSProjectile does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+	Form MysticismMagic.esp|747BDB of class RE::BGSProjectile does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+	Form MysticismMagic.esp|9B16E2 of class RE::BGSProjectile does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+	Form MysticismMagic.esp|9BB8E3 of class RE::BGSProjectile does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+	Form MysticismMagic.esp|25AAE8 of class RE::BGSProjectile does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+	Form MysticismMagic.esp|B467D9 of class RE::BGSProjectile does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+	Form DragonWar.esp|0D52AC of class RE::BGSExplosion does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+	Form DragonWar.esp|35D368 of class RE::BGSExplosion does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+	Form DragonWar.esp|35D369 of class RE::BGSExplosion does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+	Form DragonWar.esp|35D36B of class RE::BGSExplosion does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+	Form DragonWar.esp|4BA97C of class RE::BGSExplosion does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+	Form MysticismMagic.esp|CF9FA6 of class RE::BGSExplosion does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+	Form MysticismMagic.esp|47DBD4 of class RE::BGSExplosion does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+	Form MysticismMagic.esp|47DBD6 of class RE::BGSExplosion does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+	Form MysticismMagic.esp|47DBD7 of class RE::BGSExplosion does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+	Form MysticismMagic.esp|47DBD8 of class RE::BGSExplosion does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+	Form MysticismMagic.esp|47DBBD of class RE::BGSExplosion does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+	Form MysticismMagic.esp|47DBC4 of class RE::BGSExplosion does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+	Form MysticismMagic.esp|47DBC6 of class RE::BGSExplosion does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+	Form MysticismMagic.esp|47DBC7 of class RE::BGSExplosion does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+	Form MysticismMagic.esp|3857FA of class RE::BGSExplosion does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+	Form MysticismMagic.esp|3857F4 of class RE::BGSExplosion does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+	Form MysticismMagic.esp|3857FB of class RE::BGSExplosion does not exist in Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml, skipping entry
+Parsing Audio Overhaul Skyrim.esp_Regions_Base_SRD.yaml
+Converting Audio Overhaul Skyrim.esp_Regions_Base_SRD.yaml to JSON object
+	Missing requirement NOT Regional Sounds Expansion.esp
+Parsing Audio Overhaul Skyrim.esp_Regions_Extra_Interiors_SRD.yaml
+Converting Audio Overhaul Skyrim.esp_Regions_Extra_Interiors_SRD.yaml to JSON object
+	Missing requirement NOT Reverb Interior Sounds Expansion.esp
+Parsing Audio Overhaul Skyrim.esp_Requiem_SRD.yaml
+Converting Audio Overhaul Skyrim.esp_Requiem_SRD.yaml to JSON object
+Parsing Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+Converting Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml to JSON object
+	Form BSHeartland.esm|083A4B of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml, skipping entry
+	Form BSHeartland.esm|300065 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml, skipping entry
+	Form BSHeartland.esm|08749C of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml, skipping entry
+	Form BSHeartland.esm|300056 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml, skipping entry
+	Form BSHeartland.esm|30005D of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml, skipping entry
+	Form BSMBonemoldSet.esp|000D70 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml, skipping entry
+	Form BeyondSkyrimMerchant.esp|001889 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml, skipping entry
+	Form BeyondSkyrimMerchant.esp|0131ED of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml, skipping entry
+	Form BeyondSkyrimMerchant.esp|0131EE of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml, skipping entry
+Parsing Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml
+Converting Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml to JSON object
+	Form PrvtIRoyalArmory.esp|801 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form PrvtIRoyalArmory.esp|816 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form PrvtIRoyalArmory.esp|819 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form PrvtIRoyalArmory.esp|84B of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form PrvtIRoyalArmory.esp|89F of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Immersive Weapons.esp|000922 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Immersive Weapons.esp|000923 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Immersive Weapons.esp|000928 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Immersive Weapons.esp|001DBF of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Immersive Weapons.esp|00435D of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Immersive Weapons.esp|007A65 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Immersive Weapons.esp|008863 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Immersive Weapons.esp|00F8C0 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Immersive Weapons.esp|010E69 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Immersive Weapons.esp|033D65 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Immersive Weapons.esp|0478CA of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Immersive Weapons.esp|0478CE of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Immersive Weapons.esp|0478CF of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Immersive Weapons.esp|060D70 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Immersive Weapons.esp|0747D3 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Immersive Weapons.esp|0747D5 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Immersive Weapons.esp|0747D6 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Immersive Weapons.esp|0747D7 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Immersive Weapons.esp|080D65 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Immersive Weapons.esp|320D63 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Immersive Weapons.esp|48E559 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Hunterborn.esp|006956 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Hunterborn.esp|00798B of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Hunterborn.esp|00798C of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Hunterborn.esp|00798D of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Hunterborn.esp|00798E of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Hunterborn.esp|00798F of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Hunterborn.esp|007990 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Hunterborn.esp|007991 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Hunterborn.esp|007992 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Hunterborn.esp|01B481 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Hunterborn.esp|01B482 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Hunterborn.esp|0D925A of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Hunterborn.esp|1FEF18 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form ESOimports.esp|02F2CF of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form ESOimports.esp|0629AC of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form ESOimports.esp|07F5F2 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form ESOimports.esp|07F5F9 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form ESOimports.esp|07F601 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form ESOimports.esp|07F609 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form ESOimports.esp|07F611 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form ESOimports.esp|07F619 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form ESOimports.esp|07F621 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form ESOimports.esp|07F629 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form ESOimports.esp|07F62E of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form ESOimports.esp|082945 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form ESOimports.esp|085E6D of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form ESOimports.esp|085E6E of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form ESOimports.esp|085E6F of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form ESOimports.esp|085E70 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form ESOimports.esp|085E71 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form ESOimports.esp|085E72 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|001DB1 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|005928 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|0084BB of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|0084BC of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|0084BD of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|0084BE of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|0084BF of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|0084C0 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|0084C1 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|0084C2 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|0084C3 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|008A2A of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|008A2B of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|008A2C of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|008A2D of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|008A2E of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|008A2F of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|008A30 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|008A31 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|008A32 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|008A33 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|008A34 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|008A35 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|008A36 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|008A37 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|008A38 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|00953A of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|009A9E of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|009A9F of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|009AA0 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|009AA1 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|009AA2 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|009AA3 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|00B042 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|00B043 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|00B04C of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|00B04D of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|00B04E of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|00B04F of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|00B050 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|00B051 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|00F69B of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|00F69E of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|00F69F of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|00F6A0 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|00F6A1 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|00F6A2 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|00F6A3 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|00FC06 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|00FC07 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|00FC08 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|00FC09 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|00FC0A of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|00FC0B of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|013205 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|013769 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|01376A of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|01376B of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|0147A5 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|0147A6 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|0147A7 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|01526D of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|015D32 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|015D33 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|015D34 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|016297 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|016298 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Lore Weapon Expansion.esp|016299 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|002DB3 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|00387B of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|008BD2 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|017974 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|01CA85 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|01CA86 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|01CA87 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|01CA88 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|01CA8F of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|01CA90 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|01CA91 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|01CA92 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|01CA94 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|01CA97 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|01CA99 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|01CA9C of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|021B9F of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|021BA0 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|021BAC of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|026CB9 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|026CBA of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|026CBB of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|026CBC of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|026CC2 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|026CDE of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|026CDF of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|026CE0 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|026CE1 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|026CE2 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|026CE3 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|026CE4 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|026CE5 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|026CE6 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|026CE7 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|030F25 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|030F26 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|03B12F of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|04023C of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|0AA8C8 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|0AF9CD of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|0B4AD4 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|0D81E4 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|0DD2F1 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|0E23F6 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|0E74FB of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|0EC600 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|100A14 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|17557D of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|23FE2E of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|272860 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|33D124 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form RFM.esm|3AC778 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form DestructibleDisplayCases.esp|01100F of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Helgen Reborn.esp|10A18A of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Helgen Reborn.esp|10D7B6 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form Helgen Reborn.esp|111E89 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form LegacyoftheDragonborn.esm|010B9E of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form LegacyoftheDragonborn.esm|010BA0 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form LegacyoftheDragonborn.esm|064F6C of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form LegacyoftheDragonborn.esm|06F679 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form LegacyoftheDragonborn.esm|07EEEF of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form LegacyoftheDragonborn.esm|07EF23 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form LegacyoftheDragonborn.esm|1253C0 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form LegacyoftheDragonborn.esm|1259F6 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form LegacyoftheDragonborn.esm|161D35 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form LegacyoftheDragonborn.esm|166825 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form LegacyoftheDragonborn.esm|166826 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form LegacyoftheDragonborn.esm|16682E of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form LegacyoftheDragonborn.esm|236C51 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form LegacyoftheDragonborn.esm|236C5F of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form LegacyoftheDragonborn.esm|3CAA8C of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form LegacyoftheDragonborn.esm|3E401A of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form LegacyoftheDragonborn.esm|4ADDD3 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form LegacyoftheDragonborn.esm|638C39 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form LegacyoftheDragonborn.esm|73C715 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form LegacyoftheDragonborn.esm|73C717 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form LegacyoftheDragonborn.esm|73C719 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form LegacyoftheDragonborn.esm|73C71C of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form LegacyoftheDragonborn.esm|73C71E of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form LegacyoftheDragonborn.esm|73C71F of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form LegacyoftheDragonborn.esm|73C723 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form LegacyoftheDragonborn.esm|73C725 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form LegacyoftheDragonborn.esm|77AE2A of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+	Form LegacyoftheDragonborn.esm|77AE37 of class RE::TESObjectWEAP does not exist in Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml, skipping entry
+Parsing 1 configs for plugin Azura Audio Array.esp
+Parsing Azura Audio Array.esp_SRD.yaml
+Converting Azura Audio Array.esp_SRD.yaml to JSON object
+Parsing 1 configs for plugin BlackreachEerieAmbience.esp
+Parsing BlackreachEerieAmbience.esp_SRD.yaml
+Converting BlackreachEerieAmbience.esp_SRD.yaml to JSON object
+Parsing 1 configs for plugin Distant Rolling Thunder.esp
+Parsing Distant Rolling Thunder.esp_SRD.yaml
+Converting Distant Rolling Thunder.esp_SRD.yaml to JSON object
+Parsing 1 configs for plugin Haunted Shipwrecks.esp
+Parsing Haunted Shipwrecks.esp_SRD.yaml
+Failed to parse Haunted Shipwrecks.esp_SRD.yaml
+Bad file stream
+Parsing 1 configs for plugin Haunting Harmonies of Hjaalmarch.esp
+Parsing Haunting Harmonies of Hjaalmarch.esp_SRD.yaml
+Failed to parse Haunting Harmonies of Hjaalmarch.esp_SRD.yaml
+Bad file stream
+Parsing 1 configs for plugin Magical Potion Sounds.esp
+Parsing Magical Potion Sounds.esp_SRD.yaml
+Failed to parse Magical Potion Sounds.esp_SRD.yaml
+Bad file stream
+Parsing 1 configs for plugin MurderOfSongbirds.esp
+Parsing MurderOfSongbirds.esp_SRD.yaml
+Failed to parse MurderOfSongbirds.esp_SRD.yaml
+Bad file stream
+Parsing 1 configs for plugin Nordic Winds.esp
+Parsing Nordic Winds.esp_SRD.yaml
+Failed to parse Nordic Winds.esp_SRD.yaml
+Bad file stream
+Parsing 1 configs for plugin Regional Sounds Expansion.esp
+Parsing Regional Sounds Expansion.esp_SRD.yaml
+Failed to parse Regional Sounds Expansion.esp_SRD.yaml
+Bad file stream
+Parsing 1 configs for plugin Revenant Spirits of the Soul Cairn.esp
+Parsing Revenant Spirits of the Soul Cairn.esp_SRD.yaml
+Failed to parse Revenant Spirits of the Soul Cairn.esp_SRD.yaml
+Bad file stream
+Parsing 4 configs for plugin Reverb Interior Sounds Expansion.esp
+Parsing Reverb Interior Sounds Expansion.esp_Rain_SRD.yaml
+Failed to parse Reverb Interior Sounds Expansion.esp_Rain_SRD.yaml
+Bad file stream
+Parsing Reverb Interior Sounds Expansion.esp_RegionalSoundsExpansion_SRD.yaml
+Failed to parse Reverb Interior Sounds Expansion.esp_RegionalSoundsExpansion_SRD.yaml
+Bad file stream
+Parsing Reverb Interior Sounds Expansion.esp_SRD.yaml
+Failed to parse Reverb Interior Sounds Expansion.esp_SRD.yaml
+Bad file stream
+Parsing Reverb Interior Sounds Expansion.esp_Thunder_SRD.yaml
+Failed to parse Reverb Interior Sounds Expansion.esp_Thunder_SRD.yaml
+Bad file stream
+Parsing 1 configs for plugin Solstheim Exterior Soundscapes.esp
+Parsing Solstheim Exterior Soundscapes.esp_SRD.yaml
+Failed to parse Solstheim Exterior Soundscapes.esp_SRD.yaml
+Bad file stream
+Parsing 1 configs for plugin Sounds of Towns and Cities.esp
+Parsing Sounds of Towns and Cities.esp_SRD.yaml
+Failed to parse Sounds of Towns and Cities.esp_SRD.yaml
+Bad file stream
+Parsing 1 configs for plugin VolkiharSoundscapeOverhaul.esp
+Parsing VolkiharSoundscapeOverhaul.esp_SRD.yaml
+Failed to parse VolkiharSoundscapeOverhaul.esp_SRD.yaml
+Bad file stream
+Parsing 1 configs for plugin WhalesOffTheCoast.esp
+Parsing WhalesOffTheCoast.esp_SRD.yaml
+Failed to parse WhalesOffTheCoast.esp_SRD.yaml
+Bad file stream
+Parsing 1 configs for plugin Whispering Tomes of Apocrypha.esp
+Parsing Whispering Tomes of Apocrypha.esp_SRD.yaml
+Failed to parse Whispering Tomes of Apocrypha.esp_SRD.yaml
+Bad file stream
+Parsing 1 configs for plugin WildwoodEchoes.esp
+Parsing WildwoodEchoes.esp_SRD.yaml
+Failed to parse WildwoodEchoes.esp_SRD.yaml
+Bad file stream
+Parsing 3 general configs
+Parsing NPCsWearWeddingBands_ImmersiveSounds_SRD.yaml
+Failed to parse NPCsWearWeddingBands_ImmersiveSounds_SRD.yaml
+Bad file stream
+Parsing RynsSLVEbonyWarriorOverhaul - ISC Patch_SRD.yaml
+Failed to parse RynsSLVEbonyWarriorOverhaul - ISC Patch_SRD.yaml
+Bad file stream
+Parsing Unique FX Shader Sounds_SRD.yaml
+Failed to parse Unique FX Shader Sounds_SRD.yaml
+Bad file stream
+Parsed configs in 145 ms
+
+Conflict summary:
+
+
+C5853|Happier NAT.ENB III Weathers - 3.1.1C.esp
+    D63|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    800|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D64|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D66|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D65|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D67|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D69|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D68|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6A|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6B|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6E|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6C|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6D|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6F|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+
+106631|NAT-ENB.esp
+    801|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    802|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    804|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    803|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    806|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    805|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    808|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    809|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    807|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    810|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+
+2A72D|Happier NAT.ENB III Weathers - 3.1.1C.esp
+    804|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    802|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    D63|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    803|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    800|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D64|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D66|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D65|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D67|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D69|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D68|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6A|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6B|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6E|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6C|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6D|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6F|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    801|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    805|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    806|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    809|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    807|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    808|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    810|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+
+4D7FD|Happier NAT.ENB III Weathers - 3.1.1C.esp
+    D63|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    800|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D64|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D66|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D65|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D67|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D69|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D68|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6A|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6B|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6E|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6C|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6D|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6F|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+
+10FE79|Happier NAT.ENB III Weathers - 3.1.1C.esp
+    801|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    802|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    804|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    803|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    806|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    805|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    808|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    809|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    807|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    810|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+
+C5854|Happier NAT.ENB III Weathers - 3.1.1C.esp
+    804|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    802|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    D63|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    803|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    800|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D64|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D66|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D65|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D67|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D69|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D68|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6A|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6B|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6E|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6C|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6D|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6F|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    801|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    805|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    806|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    809|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    807|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    808|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    810|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+
+7042A|Happier NAT.ENB III Weathers - 3.1.1C.esp
+    804|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    802|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    D63|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    803|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    800|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D64|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D66|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D65|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D67|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D69|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D68|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6A|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6B|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6E|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6C|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6D|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6F|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    801|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    805|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    806|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    809|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    807|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    808|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    810|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+
+C5855|LoreRim - VFX Patches.esp
+    804|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    802|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    D63|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    803|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    800|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D64|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D66|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D65|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D67|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D69|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D68|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6A|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6B|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6E|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6C|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6D|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6F|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    801|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    805|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    806|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    809|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    807|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    808|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    810|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+
+70408|LoreRim - VFX Patches.esp
+    804|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    802|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    D63|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    803|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    800|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D64|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D66|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D65|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D67|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D69|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D68|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6A|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6B|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6E|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6C|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6D|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6F|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    801|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    805|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    806|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    809|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    807|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    808|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    810|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+
+C5856|Happier NAT.ENB III Weathers - 3.1.1C.esp
+    804|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    802|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    D63|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    803|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    800|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D64|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D66|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D65|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D67|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D69|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D68|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6A|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6B|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6E|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6C|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6D|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6F|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    801|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    805|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    806|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    809|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    807|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    808|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    810|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+
+703C2|Happier NAT.ENB III Weathers - 3.1.1C.esp
+    D63|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    800|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D64|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D66|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D65|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D67|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D69|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D68|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6A|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6B|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6E|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6C|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6D|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6F|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+
+7042F|Happier NAT.ENB III Weathers - 3.1.1C.esp
+    804|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    802|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    D63|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    803|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    800|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D64|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D66|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D65|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D67|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D69|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D68|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6A|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6B|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6E|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6C|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6D|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6F|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    801|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    805|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    806|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    809|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    807|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    808|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    810|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+
+C5857|Happier NAT.ENB III Weathers - 3.1.1C.esp
+    804|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    802|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    D63|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    803|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    800|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D64|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D66|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D65|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D67|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D69|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D68|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6A|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6B|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6E|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6C|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6D|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6F|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    801|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    805|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    806|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    809|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    807|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    808|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    810|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+
+7042E|Happier NAT.ENB III Weathers - 3.1.1C.esp
+    804|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    802|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    D63|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    803|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    800|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D64|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D66|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D65|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D67|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D69|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D68|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6A|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6B|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6E|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6C|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6D|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6F|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    801|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    805|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    806|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    809|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    807|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    808|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    810|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+
+10FDC5|Skyrim.esm
+    804|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    802|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    D63|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    803|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    800|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D64|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D66|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D65|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D67|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D69|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D68|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6A|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6B|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6E|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6C|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6D|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6F|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    801|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    805|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    806|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    809|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    807|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    808|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    810|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+
+C5858|LoreRim - VFX Patches.esp
+    804|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    802|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    D63|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    803|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    800|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D64|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D66|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D65|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D67|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D69|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D68|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6A|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6B|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6E|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6C|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6D|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6F|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    801|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    805|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    806|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    809|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    807|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    808|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    810|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+
+1046C7|Dawnguard.esm
+    804|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    802|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    D63|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    803|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    800|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D64|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D66|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D65|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D67|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D69|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D68|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6A|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6B|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6E|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6C|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6D|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6F|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    801|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    805|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    806|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    809|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    807|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    808|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    810|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+
+1046C8|ambientsoundsrestored.esp
+    804|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    802|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    D63|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    803|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    800|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D64|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D66|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D65|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D67|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D69|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D68|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6A|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6B|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6E|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6C|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6D|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6F|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    801|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    805|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    806|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    809|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    807|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    808|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    810|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+
+1046C9|ambientsoundsrestored.esp
+    804|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    802|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    D63|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    803|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    800|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D64|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D66|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D65|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D67|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D69|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D68|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6A|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6B|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6E|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6C|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6D|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6F|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    801|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    805|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    806|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    809|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    807|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    808|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    810|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+
+1046CA|Dawnguard.esm
+    D63|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    800|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D64|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D66|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D65|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D67|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D69|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D68|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6A|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6B|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6E|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6C|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6D|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6F|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+
+EA260|Dawnguard.esm
+    801|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    802|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    804|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    803|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    806|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    805|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    808|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    809|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    807|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    810|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+
+1046CB|Dawnguard.esm
+    D63|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    800|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D64|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D66|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D65|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D67|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D69|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D68|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6A|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6B|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6E|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6C|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6D|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6F|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+
+1046CC|Happier NAT.ENB III Weathers - 3.1.1C.esp
+    804|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    802|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    D63|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    803|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    800|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D64|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D66|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D65|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D67|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D69|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D68|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6A|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6B|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6E|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6C|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6D|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6F|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    801|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    805|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    806|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    809|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    807|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    808|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    810|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+
+10474D|Happier NAT.ENB III Weathers - 3.1.1C.esp
+    804|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    802|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    D63|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    803|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    800|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D64|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D66|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D65|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D67|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D69|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D68|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6A|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6B|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6E|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6C|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6D|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    D6F|Ambient Warfare.esp
+        Flags  -> Ambient Warfare.esp_SRD.yaml
+        Chance  -> Ambient Warfare.esp_SRD.yaml
+    801|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    805|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    806|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    809|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    807|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    808|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    810|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+
+48C2E|Skyrim.esm
+    10DA01|Regional Sounds Expansion.esp
+        Flags  -> BlackreachEerieAmbience.esp_SRD.yaml
+        Chance  -> BlackreachEerieAmbience.esp_SRD.yaml
+    803|BlackreachEerieAmbience.esp
+        Flags  -> BlackreachEerieAmbience.esp_SRD.yaml
+        Chance  -> BlackreachEerieAmbience.esp_SRD.yaml
+    805|BlackreachEerieAmbience.esp
+        Flags  -> BlackreachEerieAmbience.esp_SRD.yaml
+        Chance  -> BlackreachEerieAmbience.esp_SRD.yaml
+    10DA02|Regional Sounds Expansion.esp
+        Flags  -> BlackreachEerieAmbience.esp_SRD.yaml
+        Chance  -> BlackreachEerieAmbience.esp_SRD.yaml
+    804|BlackreachEerieAmbience.esp
+        Flags  -> BlackreachEerieAmbience.esp_SRD.yaml
+        Chance  -> BlackreachEerieAmbience.esp_SRD.yaml
+    813|BlackreachEerieAmbience.esp
+        Flags  -> BlackreachEerieAmbience.esp_SRD.yaml
+        Chance  -> BlackreachEerieAmbience.esp_SRD.yaml
+    10EE73|Regional Sounds Expansion.esp
+        Flags  -> BlackreachEerieAmbience.esp_SRD.yaml
+        Chance  -> BlackreachEerieAmbience.esp_SRD.yaml
+    802|BlackreachEerieAmbience.esp
+        Flags  -> BlackreachEerieAmbience.esp_SRD.yaml
+        Chance  -> BlackreachEerieAmbience.esp_SRD.yaml
+    801|BlackreachEerieAmbience.esp
+        Flags  -> BlackreachEerieAmbience.esp_SRD.yaml
+        Chance  -> BlackreachEerieAmbience.esp_SRD.yaml
+    808|BlackreachEerieAmbience.esp
+        Flags  -> BlackreachEerieAmbience.esp_SRD.yaml
+        Chance  -> BlackreachEerieAmbience.esp_SRD.yaml
+    806|BlackreachEerieAmbience.esp
+        Flags  -> BlackreachEerieAmbience.esp_SRD.yaml
+        Chance  -> BlackreachEerieAmbience.esp_SRD.yaml
+    807|BlackreachEerieAmbience.esp
+        Flags  -> BlackreachEerieAmbience.esp_SRD.yaml
+        Chance  -> BlackreachEerieAmbience.esp_SRD.yaml
+    809|BlackreachEerieAmbience.esp
+        Flags  -> BlackreachEerieAmbience.esp_SRD.yaml
+        Chance  -> BlackreachEerieAmbience.esp_SRD.yaml
+    80A|BlackreachEerieAmbience.esp
+        Flags  -> BlackreachEerieAmbience.esp_SRD.yaml
+        Chance  -> BlackreachEerieAmbience.esp_SRD.yaml
+    80D|BlackreachEerieAmbience.esp
+        Flags  -> BlackreachEerieAmbience.esp_SRD.yaml
+        Chance  -> BlackreachEerieAmbience.esp_SRD.yaml
+    80B|BlackreachEerieAmbience.esp
+        Flags  -> BlackreachEerieAmbience.esp_SRD.yaml
+        Chance  -> BlackreachEerieAmbience.esp_SRD.yaml
+    80C|BlackreachEerieAmbience.esp
+        Flags  -> BlackreachEerieAmbience.esp_SRD.yaml
+        Chance  -> BlackreachEerieAmbience.esp_SRD.yaml
+    812|BlackreachEerieAmbience.esp
+        Flags  -> BlackreachEerieAmbience.esp_SRD.yaml
+        Chance  -> BlackreachEerieAmbience.esp_SRD.yaml
+    810|BlackreachEerieAmbience.esp
+        Flags  -> BlackreachEerieAmbience.esp_SRD.yaml
+        Chance  -> BlackreachEerieAmbience.esp_SRD.yaml
+    811|BlackreachEerieAmbience.esp
+        Flags  -> BlackreachEerieAmbience.esp_SRD.yaml
+        Chance  -> BlackreachEerieAmbience.esp_SRD.yaml
+
+C5852|Happier NAT.ENB III Weathers - 3.1.1C.esp
+    801|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    802|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    804|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    803|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    806|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    805|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    808|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    809|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    807|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    810|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+
+10474E|Happier NAT.ENB III Weathers - 3.1.1C.esp
+    801|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    802|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    804|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    803|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    806|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    805|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    808|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    809|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    807|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    810|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+
+104AB3|Skyrim.esm
+    801|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    802|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    804|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    803|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    806|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    805|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    808|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    809|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    807|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    810|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+
+106634|Happier NAT.ENB III Weathers - 3.1.1C.esp
+    801|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    802|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    804|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    803|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    806|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    805|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    808|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    809|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    807|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+    810|Distant Rolling Thunder.esp
+        Flags  -> Distant Rolling Thunder.esp_SRD.yaml
+        Chance  -> Distant Rolling Thunder.esp_SRD.yaml
+
+13CA9|Requiem - Magic Redone.esp
+    Release  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+4C410E|Skyrim Extended Cut - Saints and Seducers.esp
+    Exterior  -> Audio Overhaul Skyrim.esp_Magic_ModSupport_SRD.yaml
+
+13CAA|Requiem - Magic Redone.esp
+    Release  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+801|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+13CAB|Requiem - Magic Redone.esp
+    Release  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+1681F|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Requiem_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Requiem_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Requiem_SRD.yaml
+
+889AE|Skyrim.esm
+    Interior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+    Exterior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+D13E8|Skyrim.esm
+    Interior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+    Exterior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+139A6|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+F392F|Requiem.esp
+    On Hit  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+7F82E|Requiem.esp
+    Release  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+    On Hit  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+7F82F|Requiem.esp
+    Release  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+    On Hit  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+73327|Requiem.esp
+    Interior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+    Exterior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+1C1FE|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+F9B0B|Skyrim.esm
+    Interior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+    Exterior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+73FF0|Skyrim.esm
+    Exterior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+73326|Requiem.esp
+    Interior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+    Exterior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+8A1E4|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+1397E|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+60DAF|Requiem.esp
+    Interior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+    Exterior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+105CFF|Unofficial Skyrim Modders Patch.esp
+    Interior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+16C46|Skyrim.esm
+    Interior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+44089|Skyrim.esm
+    Interior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+    Exterior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+9CCDC|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Requiem_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Requiem_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Requiem_SRD.yaml
+
+6051F|Skyrim.esm
+    Interior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+    Exterior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+E7721|Skyrim.esm
+    Interior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+665BB|Skyrim.esm
+    Interior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+    Exterior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+F1189|Skyrim.esm
+    Interior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+    Exterior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+73271|Requiem.esp
+    Interior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+    Exterior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+10FE9F|Skyrim.esm
+    Interior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+    Exterior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+D6C63|Skyrim.esm
+    Exterior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+DC20A|Skyrim.esm
+    Interior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+E1530|Skyrim.esm
+    Interior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+    Exterior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+104D46|LoreRim - VFX Patches.esp
+    Interior  -> Audio Overhaul Skyrim.esp_Requiem_SRD.yaml
+
+FBFE9|Skyrim.esm
+    Interior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+    Exterior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+923|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+D0758|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+1074FD|Skyrim.esm
+    Interior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+    Exterior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+109E74|Skyrim.esm
+    Interior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+    Exterior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+10FBE9|Immersive Sounds - Compendium.esp
+    Interior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+87A|Trad_AE_CC_Collection_Requiem_Patch.esp
+    Exterior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+87B|Trad_AE_CC_Collection_Requiem_Patch.esp
+    Exterior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+87C|Trad_AE_CC_Collection_Requiem_Patch.esp
+    Exterior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+13996|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+87E|Trad_AE_CC_Collection_Requiem_Patch.esp
+    Exterior  -> Audio Overhaul Skyrim.esp_Magic_Base_SRD.yaml
+
+12D14|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Requiem_SRD.yaml
+
+139B6|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+CFB4|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Requiem_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Requiem_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Requiem_SRD.yaml
+
+AD3A8E|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Requiem_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Requiem_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Requiem_SRD.yaml
+
+13986|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+1398E|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+1399E|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+139AE|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+1C492|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+240D2|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+426C8|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+43E1E|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+461DA|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+C334F|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+CDEC9|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+6A13C|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+79B1D|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+964C9|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+9F25D|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+A4DCE|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+AE085|Synthesis - Gameplay Overwrite.esp
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Attack Fail  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+B994E|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+ECD53|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+ECD54|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+10F9C6|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+14FCB|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+1CDB5|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+1CE02|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+1CE03|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+80E|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+821|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+996|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+A08|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+BE6|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+BDD|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+8A1ED|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+E44|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+ED3|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+89B|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+ECE|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+784A71|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_Base_SRD.yaml
+
+2F68AF|Synthesis - Gameplay Overwrite.esp
+    Impact Data Set  -> Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml
+    Equip  -> Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml
+    Unequip  -> Audio Overhaul Skyrim.esp_Weapons_ModSupport_SRD.yaml
+
+28AD7|Requiem.esp
+    Pick Up  -> Azura Audio Array.esp_SRD.yaml
+
+63B27|Requiem.esp
+    Pick Up  -> Azura Audio Array.esp_SRD.yaml
+
+63B29|Requiem.esp
+    Pick Up  -> Azura Audio Array.esp_SRD.yaml
+Printed conflicts in 24 ms
